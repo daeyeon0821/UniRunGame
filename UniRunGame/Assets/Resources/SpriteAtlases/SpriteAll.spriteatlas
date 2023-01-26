@@ -38,18 +38,50 @@ SpriteAtlas:
     cachedData: {fileID: 0}
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
-  - {fileID: 21300000, guid: 5a051524ddb8fb1419610c8e9676343e, type: 3}
+  - {fileID: 918271202, guid: 5a051524ddb8fb1419610c8e9676343e, type: 3}
+  - {fileID: 220404501, guid: 5a051524ddb8fb1419610c8e9676343e, type: 3}
+  - {fileID: 1534894262, guid: 5a051524ddb8fb1419610c8e9676343e, type: 3}
+  - {fileID: -1105288414, guid: 5a051524ddb8fb1419610c8e9676343e, type: 3}
+  - {fileID: 2071250663, guid: 5a051524ddb8fb1419610c8e9676343e, type: 3}
   - {fileID: 21300000, guid: 048f19e7fd375884fb5560322f550ab6, type: 3}
-  - {fileID: 21300000, guid: d70393390f5204946aec4cd75fd3060a, type: 3}
-  - {fileID: 21300000, guid: d7f1f5fbf3cf8744b87bcedc03dcd502, type: 3}
+  - {fileID: 1280705764, guid: d70393390f5204946aec4cd75fd3060a, type: 3}
+  - {fileID: -578078555, guid: d70393390f5204946aec4cd75fd3060a, type: 3}
+  - {fileID: -1437448344, guid: d70393390f5204946aec4cd75fd3060a, type: 3}
+  - {fileID: -435177735, guid: d70393390f5204946aec4cd75fd3060a, type: 3}
+  - {fileID: -199375249, guid: d70393390f5204946aec4cd75fd3060a, type: 3}
+  - {fileID: -679674159, guid: d70393390f5204946aec4cd75fd3060a, type: 3}
+  - {fileID: -1946637736, guid: d7f1f5fbf3cf8744b87bcedc03dcd502, type: 3}
+  - {fileID: 1807550473, guid: d7f1f5fbf3cf8744b87bcedc03dcd502, type: 3}
+  - {fileID: -1391516673, guid: d7f1f5fbf3cf8744b87bcedc03dcd502, type: 3}
+  - {fileID: 1112933363, guid: d7f1f5fbf3cf8744b87bcedc03dcd502, type: 3}
+  - {fileID: -1516657835, guid: d7f1f5fbf3cf8744b87bcedc03dcd502, type: 3}
+  - {fileID: 886240216, guid: d7f1f5fbf3cf8744b87bcedc03dcd502, type: 3}
+  - {fileID: -963327773, guid: d7f1f5fbf3cf8744b87bcedc03dcd502, type: 3}
+  - {fileID: -453393424, guid: d7f1f5fbf3cf8744b87bcedc03dcd502, type: 3}
   - {fileID: 21300000, guid: 8f604a2c30ae266488ceb811f790fed3, type: 3}
   - {fileID: 21300000, guid: 2983380d792870842979f2252638d9f7, type: 3}
   - {fileID: 21300000, guid: cc10296fd5fb5ab458597001e7093cc4, type: 3}
   m_PackedSpriteNamesToIndex:
-  - Toko_Jump
+  - Toko_Jump_0
+  - Toko_Jump_1
+  - Toko_Jump_2
+  - Toko_Jump_3
+  - Toko_Jump_4
   - Obstacle
-  - Toko_Die
-  - Toko_Run
+  - Toko_Die_4
+  - Toko_Die_5
+  - Toko_Die_0
+  - Toko_Die_1
+  - Toko_Die_2
+  - Toko_Die_3
+  - Toko_Run_1
+  - Toko_Run_0
+  - Toko_Run_3
+  - Toko_Run_2
+  - Toko_Run_5
+  - Toko_Run_4
+  - Toko_Run_7
+  - Toko_Run_6
   - Platform
   - Platform_Long
   - Sky
